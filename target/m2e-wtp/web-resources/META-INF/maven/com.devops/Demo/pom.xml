@@ -19,8 +19,12 @@
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
 </dependency>
-  </dependencies>
+<!-- Added -->
+		
+
+	</dependencies>
+
   <build>
-    <finalName>Demo</finalName>
+    <finalName>MavenGitApplication</finalName>
   </build>
 </project>
